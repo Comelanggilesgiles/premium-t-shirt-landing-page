@@ -93,4 +93,6 @@ premium-t-shirt-landing-page/
 - Replace the photos in `public/images/` using the same file names.
 - Edit colors and fonts in `src/index.css` and `index.html`.
 
+## Stay happy
+
 
